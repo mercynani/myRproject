@@ -11,3 +11,4 @@ a + b * 3
 assign("HEI",10)
 HEI + 2
 Freshman + HEI
+a+b+HEI
